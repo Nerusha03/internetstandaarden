@@ -1,0 +1,18 @@
+index.html
+
+logo = https://i.pinimg.com/originals/66/fd/03/66fd03b4ab97f1d45e2bfc5e00f94a2f.png
+introtext = https://jujutsu-kaisen.fandom.com/wiki/Jujutsu_Kaisen_Wiki
+Home main image = https://www.dexerto.com/cdn-cgi/image/width=3840,quality=75,format=auto/https://editors.dexerto.com/wp-content/uploads/2023/08/30/jujutsu-kaisen-season-2-shibuya-arc.jpeg
+
+images of slideshow =
+1 https://www.cnet.com/a/img/resize/c3f018606cbd01ce8d0f9ca3506d7dce15d66acc/hub/2023/07/05/b8503974-3baa-4311-bfa1-5e5b747c83ad/jujutsu-kaisen-season-2.jpg?auto=webp&width=1200
+2 https://devdiscourse.blob.core.windows.net/devnews/23_02_2022_17_00_29_7047699.jpg
+3 https://sm.ign.com/ign_in/screenshot/default/tojo_zq2d.jpg
+4 https://preview.redd.it/gqne9eb553e71.png?auto=webp&s=7ed4cfa133b630be87e2155e4cce65a13398916b
+
+characters.html
+alle characters image = https://myanimelist.net/anime/40748/Jujutsu_Kaisen?q=juju&cat=anime
+
+episodes.html
+informatie van de episodes = https://en.wikipedia.org/wiki/List_of_Jujutsu_Kaisen_episodes
+
